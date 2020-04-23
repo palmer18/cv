@@ -1,0 +1,85 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/4c/19/bd/4c19bdad58b5cd298e91a5794e16cdde.jpg);
+  background-size: 100%;
+}
+
+
+hr {
+  border-style:none;
+  border-top: 10px dotted blue;
+  width:10%;
+}
+
+
+h1 {
+  color: #10316b;
+  font-size: 40px;
+  font-family: cursive;
+  text-shadow: 2px 2px #f6da63;
+}
+
+
+h3 {
+  background-color: #fff3af;
+  color:  #110133;
+  font-size: 25px;
+  font-family: cursive;
+  text-decoration: underline;
+}
+
+
+p {
+font-family: cursive;
+}
+
+
+ul{
+  font-family: cursive;
+  list-style-type: square;
+
+}
+
+
+ol {
+  font-family: cursive;
+}
+
+
+label {
+  font-family: cursive;
+}
+
+
+th {
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+td {
+  font-family: cursive;
+}
+
+
+/*An Unvisited link*/
+a:link {
+  color: red;
+}
+
+
+/*A visited link*/
+a:visited {
+  color:purple;
+  text-decoration:none;
+
+}
+
+
+/*Efeect when cursor on link*/
+a:hover {
+  color: Blue;
+}
+
+/*table border for skills*/
+.skill {
+  border: 1px solid black;
+}
